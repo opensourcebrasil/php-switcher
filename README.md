@@ -7,7 +7,7 @@ Uma solução simples para alternar entre versões PHP sem dores de cabeça!
 Você precisa apenas rodar o comando abaixo para instalar ou atualizar seu switcher para a última release:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/kaiopiola/php-switcher/test/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/opensourcebrasil/php-switcher/test/install.sh | sh
 ```
 ## How to use
 
@@ -21,7 +21,7 @@ phpswitcher 7.4
 
 Este repositório é uma adaptação em português do meu projeto, pode ser verificado o projeto original no link abaixo:
 
-[kaiopiola/php-switcher](https://github.com/opensourcebrasil/php-switcher)
+[kaiopiola/php-switcher](https://github.com/kaiopiola/php-switcher)
 
 ## License
 
