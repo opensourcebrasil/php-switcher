@@ -7,7 +7,7 @@ Uma solução simples para alternar entre versões PHP sem dores de cabeça!
 Você precisa apenas rodar o comando abaixo para instalar ou atualizar seu switcher para a última release:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/opensourcebrasil/php-switcher/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/opensourcebrasil/php-switcher/main/install.sh | sh
 ```
 ## How to use
 
