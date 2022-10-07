@@ -21,7 +21,7 @@ phpswitcher 7.4
 
 Este repositório é uma adaptação em português do meu projeto, pode ser verificado o projeto original no link abaixo:
 
-[kaiopiola/php-switcher](https://github.com/kaiopiola/php-switcher)
+[kaiopiola/php-switcher](https://github.com/opensourcebrasil/php-switcher)
 
 ## License
 
